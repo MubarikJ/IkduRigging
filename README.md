@@ -1,2 +1,0 @@
-# IkduRigging
-Rigging
